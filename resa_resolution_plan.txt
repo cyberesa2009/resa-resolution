@@ -2,3 +2,4 @@ resolution
 -Konsisten untuk belajar IT
 -Konsisten untuk belajar agama
 -Pelajari tool
+-Pelajari tool infra dan project Management
